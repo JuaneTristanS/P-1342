@@ -1,0 +1,22 @@
+body {
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#baby , #status
+{
+font-size: 18px;
+}
+
+canvas {
+    border-color: cyan;
+    border-style: double;
+    border-width: 7px;
+    box-shadow: 5px 4px 7px cadetblue;
+    margin-top: 50px;
+}
